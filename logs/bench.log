@@ -1,0 +1,95 @@
+2018-10-11 17:16:25,123 INFO getting app erpnext
+2018-10-11 17:16:25,126 INFO git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2018-10-11 17:16:34,124 INFO installing erpnext
+2018-10-11 17:16:34,124 INFO ./env/bin/pip install -q  -e ./apps/erpnext --no-cache-dir
+2018-10-11 17:16:52,767 INFO getting app foundation
+2018-10-11 17:16:52,770 INFO git clone https://github.com/erpnext/foundation --branch master --depth 1 --origin upstream
+2018-10-11 17:17:42,445 INFO installing foundation
+2018-10-11 17:17:42,446 INFO ./env/bin/pip install -q  -e ./apps/foundation --no-cache-dir
+2018-10-12 12:26:39,101 INFO updating bench
+2018-10-12 12:26:39,101 INFO git pull
+2018-10-12 12:26:50,996 INFO ./env/bin/pip install Pillow
+2018-10-17 21:21:37,633 INFO ./env/bin/pip install --upgrade pip
+2018-10-17 21:21:41,113 INFO ./env/bin/pip install -q -r /opt/bench/bench-repo/requirements.txt
+2018-10-17 21:21:44,543 INFO ./env/bin/pip install -q -r ./apps/frappe_io/requirements.txt
+2018-10-17 21:21:45,731 INFO ./env/bin/pip install -q -r ./apps/foundation/requirements.txt
+2018-10-17 21:21:46,896 INFO ./env/bin/pip install -q -r ./apps/erpnext/requirements.txt
+2018-10-17 21:21:48,104 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2018-10-17 21:21:49,363 INFO yarn install
+2018-10-17 21:23:11,039 INFO updating bench
+2018-10-17 21:23:11,040 INFO git pull
+2018-10-17 21:23:19,255 INFO ./env/bin/pip install Pillow
+2018-10-17 21:44:13,292 INFO updating bench
+2018-10-17 21:44:13,312 INFO git pull
+2018-10-17 21:44:21,678 INFO ./env/bin/pip install Pillow
+2018-10-17 22:08:28,131 INFO ./env/bin/pip install Pillow
+2018-10-17 22:08:37,075 INFO ./env/bin/pip install --upgrade pip
+2018-10-17 22:08:38,572 INFO ./env/bin/pip install -q -r /opt/bench/bench-repo/requirements.txt
+2018-10-17 22:08:39,612 INFO ./env/bin/pip install -q -r ./apps/frappe_io/requirements.txt
+2018-10-17 22:08:40,801 INFO ./env/bin/pip install -q -r ./apps/foundation/requirements.txt
+2018-10-17 22:08:41,965 INFO ./env/bin/pip install -q -r ./apps/erpnext/requirements.txt
+2018-10-17 22:08:43,171 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2018-10-17 22:08:44,386 INFO yarn install
+2018-10-18 11:47:22,578 INFO updating bench
+2018-10-18 11:47:22,591 INFO git pull
+2018-10-19 17:41:42,590 INFO updating bench
+2018-10-19 17:41:42,619 INFO git pull
+2018-10-19 18:21:57,573 INFO updating bench
+2018-10-19 18:21:57,573 INFO git pull
+2018-10-19 18:22:06,906 INFO ./env/bin/pip install Pillow
+2018-10-19 18:22:10,403 INFO pulling frappe
+2018-10-19 18:22:10,403 INFO git fetch --all
+2018-10-19 18:22:12,690 INFO git reset --hard upstream/develop
+2018-10-19 18:22:12,798 INFO find . -name "*.pyc" -delete
+2018-10-19 18:22:12,904 INFO pulling frappe_io
+2018-10-19 18:22:12,905 INFO git fetch --all
+2018-10-19 18:22:16,269 INFO git reset --hard upstream/master
+2018-10-19 18:22:16,339 INFO find . -name "*.pyc" -delete
+2018-10-19 18:22:16,361 INFO pulling erpnext
+2018-10-19 18:22:16,361 INFO git fetch --all
+2018-10-19 18:23:26,430 INFO git reset --hard upstream/develop
+2018-10-19 18:23:26,860 INFO find . -name "*.pyc" -delete
+2018-10-19 18:23:26,946 INFO pulling foundation
+2018-10-19 18:23:26,946 INFO git fetch --all
+2018-10-19 18:23:30,533 INFO git reset --hard upstream/master
+2018-10-19 18:23:32,399 INFO find . -name "*.pyc" -delete
+2018-10-19 18:23:32,435 INFO ./env/bin/pip install --upgrade pip
+2018-10-19 18:23:33,657 INFO ./env/bin/pip install -q -r /opt/bench/bench-repo/requirements.txt
+2018-10-19 18:23:34,648 INFO ./env/bin/pip install -q -r ./apps/frappe_io/requirements.txt
+2018-10-19 18:23:35,813 INFO ./env/bin/pip install -q -r ./apps/foundation/requirements.txt
+2018-10-19 18:23:36,969 INFO ./env/bin/pip install -q -r ./apps/erpnext/requirements.txt
+2018-10-19 18:23:38,152 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2018-10-19 18:23:41,097 INFO yarn install
+2018-10-19 18:32:03,572 INFO updating bench
+2018-10-19 18:32:03,572 INFO git pull
+2018-10-19 18:32:11,257 INFO ./env/bin/pip install Pillow
+2018-10-19 18:33:37,503 INFO ./env/bin/pip install Pillow
+2018-10-19 18:33:38,452 INFO ./env/bin/pip install --upgrade pip
+2018-10-19 18:33:39,577 INFO ./env/bin/pip install -q -r /opt/bench/bench-repo/requirements.txt
+2018-10-19 18:33:40,931 INFO ./env/bin/pip install -q -r ./apps/frappe_io/requirements.txt
+2018-10-19 18:33:42,092 INFO ./env/bin/pip install -q -r ./apps/foundation/requirements.txt
+2018-10-19 18:33:43,239 INFO ./env/bin/pip install -q -r ./apps/erpnext/requirements.txt
+2018-10-19 18:33:44,418 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2018-10-19 18:33:45,977 INFO yarn install
+2018-10-19 18:53:55,085 INFO getting app erpnext
+2018-10-19 18:53:55,088 INFO git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2018-10-19 18:54:29,540 INFO getting app erpnext
+2018-10-19 18:54:29,543 INFO git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2018-11-02 14:21:02,705 INFO updating bench
+2018-11-02 14:21:02,730 INFO git pull
+2018-11-02 14:21:15,924 INFO ./env/bin/pip install Pillow
+2018-11-02 14:24:01,137 INFO updating bench
+2018-11-02 14:24:01,138 INFO git pull
+2018-11-02 14:24:10,993 INFO ./env/bin/pip install Pillow
+2018-11-02 14:29:51,441 INFO updating bench
+2018-11-02 14:29:51,441 INFO git pull
+2018-11-02 14:29:58,215 INFO ./env/bin/pip install Pillow
+2018-11-02 14:31:33,639 INFO updating bench
+2018-11-02 14:31:33,640 INFO git pull
+2018-11-02 14:31:40,457 INFO ./env/bin/pip install Pillow
+2018-11-02 14:36:24,439 INFO updating bench
+2018-11-02 14:36:24,440 INFO git pull
+2018-11-02 14:36:31,261 INFO ./env/bin/pip install Pillow
+2018-11-19 13:16:24,018 INFO updating bench
+2018-11-19 13:16:24,018 INFO git pull
+2018-11-19 13:16:41,522 INFO ./env/bin/pip install Pillow
