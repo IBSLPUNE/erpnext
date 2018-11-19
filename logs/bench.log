@@ -93,3 +93,9 @@
 2018-11-19 13:16:24,018 INFO updating bench
 2018-11-19 13:16:24,018 INFO git pull
 2018-11-19 13:16:41,522 INFO ./env/bin/pip install Pillow
+2018-11-19 13:20:46,883 INFO updating bench
+2018-11-19 13:20:46,884 INFO git pull
+2018-11-19 13:20:53,667 INFO ./env/bin/pip install Pillow
+2018-11-19 13:26:08,543 INFO updating bench
+2018-11-19 13:26:08,544 INFO git pull
+2018-11-19 13:26:17,466 INFO ./env/bin/pip install Pillow
